@@ -226,12 +226,12 @@ def user_stats(df):
 def display_data(df):
     lines = 5
     while True:
-        show = input('\nDo you want to see the raw data? (yes/no)\n')
+        display = input('\nDo you want to see the raw data? (yes/no)\n')
         # If user answers "no" stops showing data by breaking the while loop
-        if show.lower() == 'no':
+        if display.lower() == 'no':
             break
         # shows 5 rows of data.
-        elif show.lower() == 'yes': 
+        elif display.lower() == 'yes': 
             print(df.head(lines))
             lines +=5
         else: # Controls invalid answer, asks the user again.
