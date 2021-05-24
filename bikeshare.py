@@ -241,6 +241,7 @@ def display_data(df):
 
 def main():
     while True:
+        # Call "get_filter" function for getting parameters to load data. 
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
