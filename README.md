@@ -7,15 +7,16 @@
 Explores US Bikeshare Data
 
 ### Description
-Python project.
-Explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
-
+Python project that explores data related to bike share systems for three major cities in the United States—Chicago, 
+New York City, and Washington. It calculate statics acording which city and time period have been chosen by the user.
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+- Script
+    - bikeshare.py
+- Data files
+    - chicago.csv
+    - new_york_city.csv
+    - washington.csv
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html#api
