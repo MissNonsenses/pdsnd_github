@@ -19,4 +19,5 @@ washington.csv
 
 ### Credits
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html#api
-
+https://kanoki.org/2020/03/09/how-to-use-pandas-count-and-value_counts/
+https://www.geeksforgeeks.org/converting-seconds-into-days-hours-minutes-and-seconds/
