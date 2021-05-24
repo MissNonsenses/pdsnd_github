@@ -18,6 +18,10 @@ New York City, and Washington. It calculate statics acording which city and time
     - new_york_city.csv
     - washington.csv
 
+### Requirements
+- Python 3.6
+- Numpy, Pandas
+
 ### Credits
 - https://pandas.pydata.org/pandas-docs/stable/reference/index.html#api
 - https://kanoki.org/2020/03/09/how-to-use-pandas-count-and-value_counts/
