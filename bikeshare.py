@@ -227,6 +227,7 @@ def display_data(df):
     lines = 5
     while True:
         show = input('\nDo you want to see the raw data? (yes/no)\n')
+        # If user answers "no" stops showing data by breaking the while loop
         if show.lower() == 'no':
             break
         # shows 5 rows of data.
